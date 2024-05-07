@@ -1,0 +1,4 @@
+/home/eduv/Documentos/tictactoe/build/CMakeFiles/game_funcs.dir
+/home/eduv/Documentos/tictactoe/build/CMakeFiles/tictactoe.dir
+/home/eduv/Documentos/tictactoe/build/CMakeFiles/edit_cache.dir
+/home/eduv/Documentos/tictactoe/build/CMakeFiles/rebuild_cache.dir

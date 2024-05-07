@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/tictactoe.dir/src/main.cpp.o -o tictactoe  libgame_funcs.a 
